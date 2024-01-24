@@ -47,7 +47,7 @@ Darbinyan.studio@gmail.com (wise.com)
 
 -----------------lernik-------------------------------
 poghosyanlernikwork@gmail.com
-github.com/lernikp ASD!@#&asd123        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
+github.com/lernikp ASD!@#&asd123
 
 git clone https://lernikp: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@github.com/arazasgroup/Dreamify-Events.git
 http://54.237.66.191:3000/
@@ -97,7 +97,7 @@ https://cloud.mongodb.com/							QWEqwe123
 https://trello.com/b/hW4Zm6Yb/tranwise-dev-daniil   ahsus123
 stripe Z}L%Y.Vp&pz<2R4$
 
-github: danded97 / JCJ123jcj!@#                 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
+github: danded97 / JCJ123jcj!@#
 
 --------------------------------------------
 Arazas AWS
@@ -118,79 +118,6 @@ Karsten
 ssh   vm33.qdns3.com    senior/89uewr923j49j98wjer98jwe9r8j13#
 
 https://clients.hostbillapp.com   orlenkoo355@gmail.com/OSxXiyXoyFTUD9K9
-
---------------------------------
-Marcoz
-Specifications
-• Lenguage: Python 3.9
-Requirements
-• Creation of app in Amazon so that you can give us the credentials.
-• Creation of a library capable of consuming the information based on the application's credentials.
-• GET of the seller's catalog and that, at the same time, we can publish
-• GET of the seller’s sales
-• Create and manage shipments to FBA
-• Inventory reports
-
-For web: cherrypy
-For analytics: pandas and numpy
-
-mongodb+srv://<username>:<password>@realmcluster.p7moy.mongodb.net/tesla
-daniil_dev
-4ju7au3Z8nmZfbLmYajX
-
-AWS ACOUNT
-info@boldtribe.com/BTbrand251905
-paulina.rgmecommerce.amazon@riogrande.co/&7uLrDq7!K5AkTNqMdvh
-partner tag : 845277505768-20
-country : MX
-
-access key ID: AKIAXPSIRCORYNIHTSLO
-secret access key: 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
-
-ID de cuenta: 514474447779
-Console login link: https://514474447779.signin.aws.amazon.com/console
-IAM
-ARN de usuario: arn:aws:iam::514474447779:user/Marcos_Lopez
-ARN de rol: arn:aws:iam::514474447779:role/Developer
-
-app_id: amzn1.sp.solution.b157f594-73f8-40c2-82e8-bd0bd64bee67
-client_id: amzn1.application-oa2-client.27296b33899e489cb3f1bab03f73f70e
-client_secret: 3d1416c10f7e096b916e05fef38a81de6916a875ddee37d3705afbd56e0558ed
-
-Pricing
-Determine list prices and automate product pricing.
-Inventory and Order Tracking
-Analyze and manage inventory. Does not include information required to generate shipping labels.
-Amazon Fulfillment
-Ship to Amazon, and Amazon ships directly to customer. Includes Fulfillment by Amazon.
-Product Listing
-Create and manage product listings, including A+ content
-
-IPv4: 185.14.97.238
-IPv6: 2a03:94e0:ffff:185:14:97::238
-Username: root
-Password: KDB8RJg7jQ94s2p
-
-PhpMyAdmin user: padmin
-Password: $-2eM4)**n21+8)Yu
-
-staging server vps
-IP: 208.87.129.149
-Username: root
-Password: pQ2tVYxb2t
-
-client_id: 240502060768603
-client_secret: WnBcDH71wGlDcwsvW9im6C73b9LchACN
-redirect_uri: https://rio-grande-operations.herokuapp.com/mercado_libre/oauth
-
-{
-    "access_token": "APP_USR-240502060768603-122116-e0f9ad07ce29e8d6207bc78102ea3ce8-826280518",
-    "token_type": "bearer",
-    "expires_in": 21600,
-    "scope": "offline_access payments read",
-    "user_id": 826280518,
-    "refresh_token": "TG-61c1febdd0dbdc001a0fd264-826280518"
-}
 
 -----------------------------------------------------------------
 camcast
