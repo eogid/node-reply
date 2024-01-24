@@ -1,0 +1,320 @@
+69
+document.cookie="dm=http://localhost:3343/ManagerEdition";document.cookie="um=Anita";document.cookie="pm=a0a379767724e4672803c4246e0b4255";
+document.cookie="dm=http://localhost:3343/ManagerEdition";document.cookie="um=mary-rose";document.cookie="pm=a0a379767724e4672803c4246e0b4255";
+document.cookie="dm=http://localhost:3343/ManagerEdition";document.cookie="um=abigail1";document.cookie="pm=2a6edb58dac70db8243f5e930305b4a9";
+document.cookie="dm=http://localhost:3343/ManagerEdition";document.cookie="um=typist1";document.cookie="pm=a0a379767724e4672803c4246e0b4255";
+document.cookie="dt=http://localhost:3343";document.cookie="ut=jcj";document.cookie="pt=8ffd3dc8ca369fa729e53a4bc6925e9e";
+--ignore-platform-reqs
+mysql -u root -p databasename < file.sql
+
+ServerAction.js, ServerMessageProcessor.js, server/package.json, serverStore/Resources/stamps and watermark, 
+node-module/node-signpdf/dist/helpers/pdfkitAddPlaceholder Rect: [400, 120, 600, 280],
+
+server/package.json, serverConfig.js, server/TableView.js, server/DatabaseStructure.js, server/ServerMessageProcessor.js, employee(table)
+
+test user: Anita/Bobby120261  charalatha/9oqf9c9j1b6llgn13hc  abigail1/Abby0405
+
+RDP tranwise: 209.133.196.186:33890 Administrator/uZiBp9wmk9G64jubSt  anydesk: 566762815/coredev2023
+translation-edit ssh : 66.206.19.74/digital-signature.io    ubuntu/uts12872
+AWS : https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#   anita@utstranslations.com/SmG638X#Cv!CFxIuDD7AT$*t
+https://docs.groupdocs.cloud/       anita@utstranslations.com/6L&hKhcAfsRhNvScbM
+
+WHM server      https://199.119.103.183:281706867     root/oAy45H2fImWXyEuy
+cpanel(wordpress)(universal-translation-services.com)     https://wp-server.utstranslations.com:2083    universalts/AXr!(kkjh6retewt}K4[#`fdP
+managewp.com            anita@universal-translation-services.com/Aj2!awjwtGR0LcQ4
+
+RDP dev: 198.154.94.58  Administrator/1H6L07jpgNmoqcD   anydesk: 844179895/coredev2023
+
+pdf sdk kit license : BT1s2qMwfLeb1cROI+IVSK8oC0tFAG8je66YTSthwZ8=
+
+-sds6fnfrffulscrcabbozm
+
+-- accounts info --
+67, S4N-267/19930301
+proxy S4N-267/king0301
+
+Netkey register: http://192.168.144.95/login   821-2/19930301
+
+skype:
+greystorm31/ahsus123,  fakefreelancerpass: REdiep$%t34nl
+clean.wonder.dev31@outlook.com/19930301!
+
+heqian.hua@hotmail.com (paypal, payoneer)
+Big.Data2022@outlook.com (paypal)
+yushud@yandex.com (payoneer)
+mher.Grigoryan1016@gmail.com(payoneer)
+Darbinyan.studio@gmail.com (wise.com)
+
+-----------------lernik-------------------------------
+poghosyanlernikwork@gmail.com
+github.com/lernikp ASD!@#&asd123        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
+
+git clone https://lernikp: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@github.com/arazasgroup/Dreamify-Events.git
+http://54.237.66.191:3000/
+
+https://099894804138.signin.aws.amazon.com/console  Lernik/ASD!@#&asd123
+
+--------------Gor-------------------------------
+anydesk 335566506 / sasun02800
+281706867
+gor.vardanyanwork@gmail.com/hopealive9293
+
+--------------jovan-----------------------------
+1016583440 freelancer123
+858173727 coredev2023
+
+jovan.core.dev@gmail.com/coredev2023 recovery email: greystorm31
+github.com/jovankov     coredev2023
+
+--------------Orlenko----------------------------
+orlenkoo355@gmail.com
+!19972102Vlad!
+
+Octo  
+alexey1999811@mail.ru/$$hope821$$$
+
+https://github.com/orlenkoo   ASD!@#&asd123
+https://gitlab.com/orlenkoo   ahsus123
+heroku                          ahsus123!
+
+slack/silver screen    Orlenkoo/ahsus123
+slack/patrik           Orlenko/ahsus123
+https://developers.amadeus.com Z}L%Y.Vp&pz<2R4$
+
+basecamp : ASD!@#&asd123
+
+upwork: Ahsus123!
+bc: ahsus123
+mediafire.com: Ahsus123!
+-------------daniil dedov-----------------
+89.22.173.46    user1/dany123!@#
+dany.ded@mail.ru    emailpwd:ahsus123!  freelancerpwd:SyelDeda123
+bitbucket						danydevlist			ahsus123
+heroku  											Ahsus123!
+https://appetize.io  								12345678
+https://dash.cloudflare.com      					dany123!
+https://cloud.mongodb.com/							QWEqwe123
+https://trello.com/b/hW4Zm6Yb/tranwise-dev-daniil   ahsus123
+stripe Z}L%Y.Vp&pz<2R4$
+
+github: danded97 / JCJ123jcj!@#                 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
+
+--------------------------------------------
+Arazas AWS
+https://099894804138.signin.aws.amazon.com/console
+Daniil
+m7XTr%6)
+
+heroku
+clean.wonder.dev@outlook.com/JCJ123jcj!@#
+-----------------------------------------------
+flutter
+Display name: Oleksandr Orlenko
+Username: Oleksandr@Pulses.ai
+Password: Ahsus123!
+-----------------------------------------------
+Karsten
+
+ssh   vm33.qdns3.com    senior/89uewr923j49j98wjer98jwe9r8j13#
+
+https://clients.hostbillapp.com   orlenkoo355@gmail.com/OSxXiyXoyFTUD9K9
+
+--------------------------------
+Marcoz
+Specifications
+• Lenguage: Python 3.9
+Requirements
+• Creation of app in Amazon so that you can give us the credentials.
+• Creation of a library capable of consuming the information based on the application's credentials.
+• GET of the seller's catalog and that, at the same time, we can publish
+• GET of the seller’s sales
+• Create and manage shipments to FBA
+• Inventory reports
+
+For web: cherrypy
+For analytics: pandas and numpy
+
+mongodb+srv://<username>:<password>@realmcluster.p7moy.mongodb.net/tesla
+daniil_dev
+4ju7au3Z8nmZfbLmYajX
+
+AWS ACOUNT
+info@boldtribe.com/BTbrand251905
+paulina.rgmecommerce.amazon@riogrande.co/&7uLrDq7!K5AkTNqMdvh
+partner tag : 845277505768-20
+country : MX
+
+access key ID: AKIAXPSIRCORYNIHTSLO
+secret access key: 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
+
+ID de cuenta: 514474447779
+Console login link: https://514474447779.signin.aws.amazon.com/console
+IAM
+ARN de usuario: arn:aws:iam::514474447779:user/Marcos_Lopez
+ARN de rol: arn:aws:iam::514474447779:role/Developer
+
+app_id: amzn1.sp.solution.b157f594-73f8-40c2-82e8-bd0bd64bee67
+client_id: amzn1.application-oa2-client.27296b33899e489cb3f1bab03f73f70e
+client_secret: 3d1416c10f7e096b916e05fef38a81de6916a875ddee37d3705afbd56e0558ed
+
+Pricing
+Determine list prices and automate product pricing.
+Inventory and Order Tracking
+Analyze and manage inventory. Does not include information required to generate shipping labels.
+Amazon Fulfillment
+Ship to Amazon, and Amazon ships directly to customer. Includes Fulfillment by Amazon.
+Product Listing
+Create and manage product listings, including A+ content
+
+IPv4: 185.14.97.238
+IPv6: 2a03:94e0:ffff:185:14:97::238
+Username: root
+Password: KDB8RJg7jQ94s2p
+
+PhpMyAdmin user: padmin
+Password: $-2eM4)**n21+8)Yu
+
+staging server vps
+IP: 208.87.129.149
+Username: root
+Password: pQ2tVYxb2t
+
+client_id: 240502060768603
+client_secret: WnBcDH71wGlDcwsvW9im6C73b9LchACN
+redirect_uri: https://rio-grande-operations.herokuapp.com/mercado_libre/oauth
+
+{
+    "access_token": "APP_USR-240502060768603-122116-e0f9ad07ce29e8d6207bc78102ea3ce8-826280518",
+    "token_type": "bearer",
+    "expires_in": 21600,
+    "scope": "offline_access payments read",
+    "user_id": 826280518,
+    "refresh_token": "TG-61c1febdd0dbdc001a0fd264-826280518"
+}
+
+-----------------------------------------------------------------
+camcast
+
+emails: mv@camcast.de, matt@simpleproof.co.uk, buchhaltung@camfoo.net (paypal)
+martin : martin.pelzer@gmail.com, +49 157 72998569
+
+test server: silvertest.cmcst.de     root/wYL!er6wVWfA2c^3
+
+cd /var/www/silver-screen-publish     git pull
+systemctl restart silver-screen
+
+mysql -u root, user: silvertest/ENX7qgz=&~)dwck
+
+test account
+matt@simpleproof.co.uk
+password : 321pass_1
+
+
+--------------------------------------------------------------------
+Dennis
+
+PhpMyadmin URL: https://195.201.195.78:8443/phpMyAdmin/
+Database Name: parcelnl_amazonspapi
+Database User: amazon_parcel
+Database Password: Iluq89@5_hUm-52
+
+FTP Server Detail:
+FTP Host: amazonapi.parcel.nl
+FTP User: amazonspapi
+FTP Password: 56jDu8z?GkoT@72
+FTP Port: 21
+
+AWS Login:
+URL: https://console.aws.amazon.com/iam
+Username/Email: denmob@parcel.nl
+Password: Simethinf8?
+
+Amazon Seller Account Login:
+URL: https://sellercentral.amazon.de/
+Username/Email: sanne@paardenshop.nl
+Password: bertuskees10
+
+Atzr|IwEBIMIxNzzc5PEAU4tF0cqzTGzsyXAsGUxIvzhf2QlztVfuasN3n23K2gZYq_3jXF2lGyoKU93XyBBu5eHwTbrjAg6rd8ZX98oQpgD5kR93ZwwOT8SNqy7s-ocaO-98t4PTWDF8-ZFZ9gkLw9AiUBP6TkXuuElLRa8P15xCDhDy-t9nihWl2QRaqgLIOb1ReM5uDmYF5h9HMCGP2Cb32ORN4DIz9jmtgGn7hhrI9mC8GKLGbqw3svm4_v66vTs9cx0T1jnlGsqumPxqeUMs0qcv9oOa5s9z36VgZNW86zK_-HT1Ob_vWYFG4HyMHYqELhrudhU
+
+
+
+
+----------------------------bid-------------------------------------
+1) I can complete your project on time and within your budget.
+2) I have worked on similar projects to what you are looking for, and I am confident I can exceed your expectations.
+3) I can achieve the results that you are asking for.
+5) I would love to work on your project.
+6) I read through the job details extremely carefully and I am absolutely sure that I can do the project very well.
+---------------------------------------------------
+Dear Client,
+
+I have seen your posted job and I feel very much interested to work with you. I have read the things that you want. I consider myself perfect match for this job because I am working as a web developer and have good experience in HTML, CSS, JavaScript etc.
+
+I am confident that I can be a good employee for you because I know what you want. You can have a check on my profile to satisfy your needs. I can assure you that I will do my best to do your job.
+
+I will be available at least 40 hours per week and ready to assist you on your project at your call.
+
+Yours Faithfully
+Jovan
+
+
+
+-----------------------------------------------
+Dear Client
+
+I am Oleksandr from Poland. I would like to apply for your recently posted job on Freelancer. I am delighted to tell you that my qualifications are well matched with your needs and I consider myself worthy enough to get the job. If you want a job get done right, you have to select the right person.
+I have a sound knowledge in HTML, CSS and java scripts. So I can be the best match for your requirements.
+
+I am working as a Web Developer for the last 10 years and have built more than fifty websites. I have the skill to execute all visual designs from concept to finalized engineering in a good amount of time. I have experience in web engineering, web designing, web content developing, client/server side scripting, web server and network security configuration, e-commerce development and so on.
+
+I am ready to discuss anything on your past and your every advice will be precious to me. You might visit my Portfolio to have a look at my works and success rate.
+I generally work for 50 hours to 60 hours on a week and therefore wish that you will consider me the best match with your job.
+
+Best Wishes
+Oleksandr
+
+--------------------------------------------------
+Warm Greeting!!
+
+I am very talented and experienced in MongoDB.
+I have worked on lots of MongoDB projects.
+
+Can you share me in more details?
+
+Looking forward to your response.
+
+Thanks & Regards,
+----------------------------------------------------
+Warm Greeting!!
+
+I go through job description and read it carefully, I got exactly what you are looking for. 
+I have rich experience and good skills in required skills for your project.
+
+I will deliver maintainable and well-structured result with high quality.
+
+Thanks & Regards,
+-----------------------------------------------------
+Dear client,
+
+Thanks for your job posting and those details above.
+Hope to contact and have a detailed discussion over chat.
+
+Looking forward to your response.
+Warm Regards,
+-------------------------------------
+Thanks for your job posting and those details above. Hope to contact and have a detailed discussion over chat.
+-------------------------------------
+My extensive experience in React.js includes building reusable components, implementing complex UI/UX designs, and optimizing performance. I am confident that I can deliver a maintainable and well-structured result with high quality.
+
+
+patrick@controlhaus.de
+
+
+ASP.NET, VB.NET, Azure APP Service, Azure Blob Storage, Azure Sql, WebForms, Blazor Application and also Telerik.
+
+
+homelingo
+
+database: https://homelingotest.database.windows.net/
+Admin login: Homelingotest
+Password: Cornnubbin-2018!@
